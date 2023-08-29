@@ -80,8 +80,8 @@ To set up the e-Commerce Shop locally, follow these steps:
 
 ## Technologies
 
-- Frontend: React, Redux, HTML, CSS
-- Backend: Node.js, Express.js, PostgreSQL, Sequelize
+- Frontend: HTML, CSS(Tailwind)
+- Backend: PHP, MySQL(MariaDB engine)
 - Authentication: JWT (JSON Web Tokens)
 
 ## Contributing
